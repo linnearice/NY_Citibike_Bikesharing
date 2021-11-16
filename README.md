@@ -23,7 +23,7 @@ The charts below represent:
 
 ![2021-11-16 (1)](https://user-images.githubusercontent.com/35401581/142044297-4812ccb1-bec5-4fee-9d7e-54215154f033.png)
 
-These charts following represent how long the average checkout times were by user and by gender.  No matter the day or gender, the average bike trip is 30 minutes or less.
+The charts following represent how long the average checkout times were by user and by gender.  No matter the day or gender, the average bike trip is 30 minutes or less.
 
 ![2021-11-16 (2)](https://user-images.githubusercontent.com/35401581/142045097-ec9d0871-57db-4e07-8d86-e20bd547208a.png)
 
