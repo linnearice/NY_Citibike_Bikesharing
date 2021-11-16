@@ -42,3 +42,18 @@ The chart below represents weekday trips by uer type by gender.  As indicated in
 This chart below depicts a map of the prevalence of bike trips made at their starting point in the New York City.  The highest concentration appears to be in the tourist area and also the heart of NYC's business district.  Some of the highest starting locations show roughly 13,000 users while some of the less popular locations may be about 2,000 users..   
 
 ![2021-11-16 (6)](https://user-images.githubusercontent.com/35401581/142045172-ac8ef3a8-2b6f-455d-b889-aedc6ca3c961.png)
+
+## Summary
+* The data supports strong ussage and high popularity in the New York City area for the month of August.
+* The visualizations are helpful in seeing several user patterns:
+    - the majority of users are male
+    - the majority of users are subscribers
+    - the majority of usage is in the rush hour timeframes during the work week
+    - weekends still appear to have strong steady usage throughout the week with a slight uptick on weekends Saturday and Sunday
+    - the higher usage areas appear to be the central business district and tourist areas
+
+In general, this analysis supports implementation in the Des Moines area perhaps following the same guidelines and the NYC citibike.  That is implement a program that supports subscribers versus random customers, target male users primarily, research areas in the city to install the bikes such has the downtown business district, etc.
+
+## Further Analysis
+* One item to consider for further study is the cost and how does it compare to other forms of city transportation such as the city bus, etc.
+* Further analysis should also be conducted to review the slower winter months to determine the viability of the bike market throughout the year.         
